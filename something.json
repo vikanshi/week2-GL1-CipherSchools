@@ -1,14 +1,15 @@
 {
-    "name" :"rahul",
+    "name":"siddhu",
     "married":false,
     "age":10.9,
-    "address" : [{
+    "address":[{
         "street":123,
-        "city":"Banglore"
+        "city":"Vijayawada"
     },{
-        "street":324,
-        "city":"Delhi"
+        "street":453,
+        "city":"Vizag"
     }
-],
-    "marks" : [1,2,3,4,5,6,7,8,4]
- }
+    ],
+    "marks":[1,2,3,4,5,6,7,8,4]
+
+}
